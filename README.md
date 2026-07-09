@@ -1,5 +1,36 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# Hi, I'm Shourya Jain 👋
+
+💻 BCA student at Symbiosis Institute of Computer Studies and Research (SICSR), Pune, with a passion for building scalable web applications and exploring Data Science, Artificial Intelligence, and Cybersecurity.
+
+🚀 I'm constantly learning new technologies and enjoy turning ideas into real-world projects. I love working on full-stack development, solving problems, and contributing to open-source whenever possible.
+
+### 🌱 Currently Learning
+
+* Data Science & Machine Learning
+* Artificial Intelligence
+* Cybersecurity
+* Full-Stack Web Development
+
+### 🛠️ Tech Stack
+
+* **Languages:** JavaScript, TypeScript, Python, PHP, SQL
+* **Frontend:** HTML, CSS, React
+* **Backend:** Node.js
+* **Databases:** MySQL, PostgreSQL
+* **Tools:** Git, GitHub, Docker
+
+### 📌 Interests
+
+* Full-Stack Development
+* Data Science
+* AI & Machine Learning
+* Cybersecurity
+* Open Source
+
+### 📫 Let's Connect
+
+I'm always open to collaborating on interesting projects, learning from the developer community, and connecting with like-minded people.
 
 
 ## 🌐 Socials:
