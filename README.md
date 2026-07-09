@@ -12,14 +12,6 @@
 * Cybersecurity
 * Full-Stack Web Development
 
-### 🛠️ Tech Stack
-
-* **Languages:** JavaScript, TypeScript, Python, PHP, SQL
-* **Frontend:** HTML, CSS, React
-* **Backend:** Node.js
-* **Databases:** MySQL, PostgreSQL
-* **Tools:** Git, GitHub, Docker
-
 ### 📌 Interests
 
 * Full-Stack Development
@@ -53,8 +45,6 @@ I'm always open to collaborating on interesting projects, learning from the deve
 [![](https://komarev.com/ghpvc/?username=shourya jain&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shourya-jain-b7665a300) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:SHOURYJAIN15@GMAIL.COM) 
